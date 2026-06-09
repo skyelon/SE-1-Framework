@@ -49,6 +49,7 @@ SE-1 operates as an **uncertainty converter** that:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+https://doi.org/10.5281/zenodo.20610287
 ---
 
 *Transforming uncertainty into systemic efficiency.*
