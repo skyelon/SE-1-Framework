@@ -5,6 +5,7 @@
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-success)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20610287.svg)](https://doi.org/10.5281/zenodo.20610287)
 
 ---
 
@@ -23,6 +24,7 @@ Where:
 ## 🎯 Core Mechanism
 
 SE-1 operates as an **uncertainty converter** that:
+
 1. Observes patterns from chaotic situations
 2. Maps Subject + Object + Variables systematically
 3. Uses Timeline to measure efficiency and risk
@@ -45,11 +47,31 @@ SE-1 operates as an **uncertainty converter** that:
 - GitHub: https://github.com/skyelon
 - Medium: https://medium.com/@skyelon
 
-## 📄 License
+## 📄 How to Cite
+
+If you use SE-1 Framework in your research or project, please cite:
+
+> Barry (Sky Elon). (2026). *SE-1 Framework: Cognitive Framework for Converting Uncertainty into Probabilistic Output* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.20610287
+
+**BibTeX:**
+```bibtex
+@software{skyelon2026se1,
+  author = {Barry (Sky Elon)},
+  title = {SE-1 Framework: Cognitive Framework for Converting Uncertainty into Probabilistic Output},
+  year = {2026},
+  publisher = {Zenodo},
+  version = {1.0},
+  doi = {10.5281/zenodo.20610287},
+  url = {https://doi.org/10.5281/zenodo.20610287}
+}
+```
+
+## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-https://doi.org/10.5281/zenodo.20610287
+**DOI:** [10.5281/zenodo.20610287](https://doi.org/10.5281/zenodo.20610287)
+
 ---
 
 *Transforming uncertainty into systemic efficiency.*
